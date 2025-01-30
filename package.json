@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm ci",  // Installs dependencies
-    "serve": "node index.js",  // Starts the app
+    "build": "npm ci",
+    "serve": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,3 +15,4 @@
     "express": "^4.21.2"
   }
 }
+
