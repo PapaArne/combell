@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "build": "npm ci",
-    "serve": "node index.js"
-  }
-}
-
