@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "npm install && npm run build",
+    "serve": "node index.js"
+  }
+}
