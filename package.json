@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "npm ci",  // Installs dependencies
+    "serve": "node index.js",  // Starts the app
     "test": "echo \"Error: no test specified\" && exit 1"
-    "build": "npm ci",
-    "serve": "node index.js"
   },
   "keywords": [],
   "author": "",
