@@ -1,0 +1,11 @@
+
+
+package.json
+
+{
+  "scripts": {
+    "build": "npm ci",
+    "serve": "node index.js"
+  }
+}
+
